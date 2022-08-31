@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7959" started-at="2022-08-26T12:59:00Z" finished-at="2022-08-26T12:59:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7959" started-at="2022-08-26T12:59:00Z" finished-at="2022-08-26T12:59:08Z">
+      <class name="testCases.TechnicalAssessment">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TechnicalAssessment@71809907]" name="setup" is-config="true" duration-ms="8189" started-at="2022-08-26T12:58:52Z" finished-at="2022-08-26T12:59:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:testCases.TechnicalAssessment@71809907]" name="test1" duration-ms="970" started-at="2022-08-26T12:59:00Z" description="Test Email login" finished-at="2022-08-26T12:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:testCases.TechnicalAssessment@71809907]" name="test2" duration-ms="412" started-at="2022-08-26T12:59:01Z" description="Check Item List value and Badge" finished-at="2022-08-26T12:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:3, instance:testCases.TechnicalAssessment@71809907]" name="test3" duration-ms="446" started-at="2022-08-26T12:59:01Z" description="Select Option 3 from dropdown" finished-at="2022-08-26T12:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:4, instance:testCases.TechnicalAssessment@71809907]" name="test4" duration-ms="264" started-at="2022-08-26T12:59:02Z" description="Enabled and Disabled buttons" finished-at="2022-08-26T12:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:5, instance:testCases.TechnicalAssessment@71809907]" name="test5" duration-ms="5242" started-at="2022-08-26T12:59:02Z" description="Element synchronisation to be visible" finished-at="2022-08-26T12:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:6, instance:testCases.TechnicalAssessment@71809907]" name="test6" duration-ms="551" started-at="2022-08-26T12:59:07Z" description="Extracting value from web table" finished-at="2022-08-26T12:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TechnicalAssessment@71809907]" name="tearDown" is-config="true" duration-ms="1485" started-at="2022-08-26T12:59:08Z" finished-at="2022-08-26T12:59:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TechnicalAssessment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
